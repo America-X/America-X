@@ -1,6 +1,18 @@
-# 💫 About Me:
-My family is from Mexico, but I was born and raised in Queens, NY. I love playing volleyball. <br><br>I got into web development when I created a Wix website for a friend’s event. That experience sparked my curiosity about software engineering and I began searching for opportunities to expand my learning and I found the Marcy Lab School. It is highly competitive intense one-year software engineering program where I learned full-stack development skills, focusing on both backend and frontend while building real-world projects.<br><br>One of my most recent projects, GeneralWoodFloors where I am creating a full stack website for my father small family business. It allowed me to self-learn Python in just a month and build the backend using Django and PostgreSQL. <br><br>I’m (found my passion through helping small businesses using technologies )<br><br>passionate about using technology to empower small businesses and <br><br>so I am excited about opportunities where I can continue making a positive impact through scalable and efficient software solutions. I’m particularly interested in working with organizations that are focused on innovation and community impact. <br><br>I am so excited to be here with you today and to get to learn more about this opportunity and share more about my background.<br>I recently graduated from a rigorous software engineering program at The Marcy Lab School, where I developed full-stack development skills with a focus on both backend and frontend technologies, working on real-world projects.<br><br>I am currently enrolled in CLA, a Career Launch Accelerator program at the Marcy Lab School where they help support me in my job search, attend networking events. I would love to learn more about you and your company. and what you do for work?
+# 💫 About Me
 
+👋 Hi there! I'm a software engineer born and raised in **Queens, NY**, with roots in **Mexico** 🇲🇽 and a love for **volleyball** 🏐.
+
+💡 My journey into tech started when I built a Wix website for a friend’s event. That moment sparked a deep curiosity about how websites work — and led me to **The Marcy Lab School**, a highly selective, intensive one-year program where I developed full-stack skills by building real-world projects.
+
+🛠️ One of my proudest projects is **GeneralWoodFloors**, a full-stack website I’m building for my father’s small business. I self-taught **Python in just a month** and used **Django + PostgreSQL** to build the backend. This project let me combine my passion for tech with my desire to support family and community.
+
+🚀 I’m passionate about **empowering small businesses** with technology and am excited about opportunities where I can make a positive impact through **scalable and efficient software solutions**. I’m especially interested in working with organizations focused on **innovation and community**.
+
+🎯 I’m currently enrolled in the **Career Launch Accelerator (CLA)** at The Marcy Lab School, receiving continued job search support and attending networking events.
+
+🤝 Thanks for stopping by! I’d love to learn more about **you** and what you do. Feel free to connect or reach out!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/america-xicotencatl-alvarez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:americaxalvarez@gmail.com) 
